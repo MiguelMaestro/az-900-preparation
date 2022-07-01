@@ -57,9 +57,9 @@ Hay dos formas de realizar la certificación:
 - **Presencial** en un centro acreditado
 - **En remoto**
 
-### Reglas y normativa
+#### Reglas y normativa
 
-#### Examen en remoto
+### Examen en remoto
 - Necesario identificación (DNI)
 - Deja completamente vacío el escritorio y quita 2ª pantallas
 - Asegurate que **nadie entrará** en la habitación
@@ -67,7 +67,7 @@ Hay dos formas de realizar la certificación:
 - Apaga teléfonos
 - No hables y estate siempre frente al ordenador
 
-#### Examen presencial
+### Examen presencial
 - Posibles reglas adicionales propias del centro
 - Necesaria identificación
 - **No permitido**: telefono móvil, auriculares, gorras, etc.

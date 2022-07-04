@@ -4,6 +4,7 @@ Enlace al **[curso en Udemy-Kyndryl](https://kyndryl.udemy.com/course/curso-az-9
 
 ## Carácteristicas del examen
 
+<div align="center">
 
 | PLATAFORMA  | Pearson VUE  |
 |---|---|
@@ -12,6 +13,8 @@ Enlace al **[curso en Udemy-Kyndryl](https://kyndryl.udemy.com/course/curso-az-9
 | LÍMITE DE TIEMPO  | 120 minutos examen (140 total)   |
 | PUNTUACIÓN PARA APROBAR  | 700 puntos sobre 1000 (70%) |
 | COSTE  | 165€ o free  |
+
+</div>
 
 ## Skills cuibiertas en el AZ-900
 
